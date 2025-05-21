@@ -6,3 +6,7 @@
 <p>
   I picked one of the Network adapters on the left side that meets the requirement when it plugs in with an ethernet cable.
 </p>
+
+
+![image](https://github.com/user-attachments/assets/9c7591c3-71e5-46fa-b26b-a9c8b4dd326e)
+
